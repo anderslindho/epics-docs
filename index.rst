@@ -168,12 +168,6 @@ You may also directly use related links to see documents which match you the mos
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contributing
-
-   CONTRIBUTING
-
-.. toctree::
-   :maxdepth: 1
    :caption: Training
 
    Training Material <https://epics-controls.org/resources-and-support/documents/training/>
