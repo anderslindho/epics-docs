@@ -69,14 +69,6 @@ You may also directly use related links to see documents which match you the mos
    getting-started/EPICS_Intro
 
 .. toctree::
-   :caption: Site tags
-   :maxdepth: 2
-   :hidden:
-   :titlesonly:
-
-   _tags/tagsindex
-
-.. toctree::
    :maxdepth: 1
    :caption: Installation
 
@@ -179,3 +171,11 @@ You may also directly use related links to see documents which match you the mos
 
    Training Material <https://epics-controls.org/resources-and-support/documents/training/>
    community/how-to-run-an-epics-collaboration-meeting.rst
+
+.. toctree::
+   :caption: Site tags
+   :maxdepth: 1
+   :hidden:
+   :titlesonly:
+
+   _tags/tagsindex
