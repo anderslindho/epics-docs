@@ -1,4 +1,4 @@
-# Contributing to EPICS Documentation
+# Contributing to EPICS documentation
 
 Found an issue? You can report it on [GitHub Issues](https://github.com/epics-docs/epics-docs/issues) or email <tech-talk@aps.anl.gov>.
 
@@ -16,7 +16,7 @@ Organize pages in this order within each topic.
 
 ## Tagging documents
 
-Use [sphinx-tags](https://sphinx-tags.readthedocs.io/) to indicate the intended audience:
+Use [sphinx-tags](https://sphinx-tags.readthedocs.io/) to show the intended audience:
 
 - `beginner` - installation and basic concepts
 - `user` - using EPICS with client applications
@@ -48,7 +48,7 @@ $ poetry run sphinx-autobuild --re-ignore _tags/ . ./_build/html
 ```
 
 Open <http://127.0.0.1:8000> in your browser.
-Changes will auto-reload.
+Changes reload automatically.
 
 ### Using pip
 
@@ -63,7 +63,7 @@ $ sphinx-autobuild --re-ignore _tags/ . ./_build/html
 
 - Write new documentation in **Markdown** (`.md`)
 - Use [semantic line breaks](https://sembr.org/) - break after sentences and clauses
-- Vale is configured for style checking: `vale path/to/your/file.md` (optional, not required)
+- Run Vale for style checking: `vale path/to/your/file.md` (optional, not required)
 - Keep commits focused and separate concerns
 
 ## Adding dependencies
