@@ -102,7 +102,7 @@ html_short_title = 'EPICS Docs'
 # Use RTD's canonical URL if available
 html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 
-html_copy_source = False
+html_copy_source = True
 
 html_context = {
     "display_github": True,
