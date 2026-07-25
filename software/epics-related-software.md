@@ -88,6 +88,7 @@ Probe | Motif channel monitoring program | [github.com](https://github.com/epics
 PyDM | A Python-based display manager | [github.com](https://github.com/slaclab/pydm) | [github.io](https://slaclab.github.io/pydm/)
 React Automation Studio | React-based display manager | [github.com](https://github.com/React-Automation-Studio/React-Automation-Studio) | [github.com](https://github.com/React-Automation-Studio/React-Automation-Studio)
 Strip Tool | Strip-chart plotting tool | [github.com](https://github.com/epics-extensions/StripTool) | [epics.anl.gov](https://epics.anl.gov/extensions/StripTool/index.php)
+WEISS | Web EPICS Interface & Synoptic Studio (web-native) | [github.com](https://github.com/weiss-controls/weiss/) | [docs.weiss-controls.org](https://docs.weiss-controls.org/)
 
 
 ## Central Services
